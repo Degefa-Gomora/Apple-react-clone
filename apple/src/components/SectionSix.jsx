@@ -34,15 +34,15 @@ function SectionSix() {
 
             <div className="right-side-wrapper col-sm-12 col-md-6">
               <div className="right-side-container">
-                <div className="title-wraper">
+                <div className="title-wraper lh-1">
                   Apple Card Monthly Installments
                 </div>
-                <div className="description-wraper">
+                <div className="description-wraper lh-1">
                   Pay for your next iPhone over time, interest-free with Apple
                   Card.
                 </div>
                 <div className="links-wrapper">
-                  <ul>
+                  <ul className="d-flex justify-content-between">
                     <li>
                       <a href="#">Learn more</a>
                     </li>
