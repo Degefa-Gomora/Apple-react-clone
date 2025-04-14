@@ -4,6 +4,9 @@
 // import './App.css'
 // import $ from 'jquery'; // Import jQuery first
 // import 'bootstrap/dist/js/bootstrap.bundle.min.js'; // Then Bootstrap
+
+
+
 import Header from "./components/Header.jsx";
 import Footer from "./components/Footer.jsx";
 import AlertSection from "./components/AlertSection.jsx";
