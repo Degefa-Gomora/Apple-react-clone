@@ -1,0 +1,44 @@
+/* Alert section */
+.top50 {
+	margin-top: 50px;
+}
+.alertSection {
+  text-align: center;
+  padding: 20px;
+}
+
+.alertTitle {
+  font-weight: 600;
+  color: #1d1d1f;
+  padding: 10px;
+}
+
+.alertText {
+  max-width: 90%;
+  margin: 0 auto;
+}
+a {
+	color: #06c; 
+}
+img {
+	max-width: 100%;
+}
+.white {
+	color: #fff;
+}
+.black {
+	color: #1d1d1f;
+}
+.grey {
+	color: #86868b;
+}
+.top-50 {
+	margin-top: 50px;
+}
+
+@media (min-width: 768px) {
+  .alertText {
+    max-width: 85%;
+    margin: 0 auto;
+  }
+}

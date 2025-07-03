@@ -1,0 +1,50 @@
+Link {
+	color: #06c; 
+}
+img {
+	max-width: 100%;
+}
+.links-wrapper ul {
+	list-style: none;
+}
+.product-title {
+	font-weight: 700;
+	font-size: 56px;
+}
+.brief-description {
+	font-size: 2em;
+}
+.links-wrapper {
+	padding: 15px 0;
+}
+.links-wrapper ul li {
+	display: inline-block;
+	padding-right: 20px;
+}
+.links-wrapper ul li a {
+	color: #06c;
+	text-decoration: none;
+	font-size: 21px;
+}
+.links-wrapper ul li a:hover {
+	color: #000;
+}
+.links-wrapper ul li a:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f105";
+  padding-left: 10px;
+}
+.title-wraper {
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.15em;
+  letter-spacing: -0.04em;
+  padding-top: 100px;
+}
+.title-wraper.bold {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1.15em;
+  letter-spacing: -0.04em;
+}
