@@ -6,8 +6,8 @@ import App from "./App.jsx";
 //CSS
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
-import "../src/assets/js/bootstrap.js"
-import "../src/assets/js/custom.js"
+// import "../src/assets/js/bootstrap.js"
+// import "../src/assets/js/custom.js"
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js'; // includes Popper internally
 

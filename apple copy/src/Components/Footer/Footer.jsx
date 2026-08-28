@@ -298,6 +298,10 @@ const Footer = () => {
           </div>
         </div>
       </div>
+      <p>
+        This is a portfolio project for educational purposes, not affiliated
+        with Apple website.
+      </p>
     </footer>
   );
 };
